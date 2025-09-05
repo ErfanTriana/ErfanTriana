@@ -8,7 +8,7 @@ Soy un estudiante de sexto semestre de ingeniería de sistemas y computación, d
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
 - Fuera de la tecnología, 💜 me gusta jugar tenis de mesa, 🎮 jugar videojuegos, 🎵 escuchar música, y 📖 leer libros sobre crecimiento personal.
-- 📫 Reach out to me at: <a href="valenwerlecontacto@gmail.com">valenwerlecontacto@gmail.com</a>
+- 📫 Contáctame en: <a href="etrianad@unal.edu.co">etrianad@unal.edu.co</a>
 
 ## Mis habilidades incluyen
 
