@@ -5,8 +5,7 @@
 Soy un estudiante de sexto semestre de ingeniería de sistemas y computación, de la Universidad Nacional de Colombia.
 - 🌱 Actualmente estoy aprendiendo
   - React
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help<br>
+  - TypeScript
 - Fuera de la tecnología, 💜 me gusta jugar tenis de mesa, 🎮 jugar videojuegos, 🎵 escuchar música, y 📖 leer libros sobre crecimiento personal.
 - 📫 Contáctame en: <a href="etrianad@unal.edu.co">etrianad@unal.edu.co</a>
 
